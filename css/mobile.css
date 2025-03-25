@@ -7,7 +7,7 @@
     .home-section .right-block-img_small {
         width: 30%;
         left: 15%;
-
+        top: 43%
     }
 
     .home-section .header-logo {
@@ -22,7 +22,7 @@
         flex-basis: 100%;
         display: flex;
         justify-content: center;
-        padding-top: 10px;
+        padding-top: -20px;
 
     }
 
