@@ -19,7 +19,7 @@
         flex-wrap: wrap;
     }
 
-    .header-logo-smallscreen {
+    .header-logo-small-screen {
         flex-basis: 100%;
         display: flex;
         justify-content: center;
