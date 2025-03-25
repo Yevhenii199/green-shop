@@ -5,7 +5,9 @@
     }
 
     .home-section .right-block-img_small {
-width: 60%;
+        top: 80px;
+        left: -5px;
+width: 45%;
     }
 
     .home-section .header-logo {
