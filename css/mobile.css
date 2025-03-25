@@ -7,7 +7,7 @@
     .home-section .right-block-img_small {
         width: 30%;
         left: 10%;
-        top: 100px;
+        top: -100px;
     }
 
     .home-section .header-logo {
