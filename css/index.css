@@ -286,11 +286,13 @@ button:hover {
 }
 
 .home-section .right-block-img_small {
+    padding-top: -20px;
+    top: -20px;
     width: 35%;
     height: fit-content;
     position: absolute;
     left: 5%;
-    top: 50%;
+    top: 58%;
 }
 
 .home-section .title {
