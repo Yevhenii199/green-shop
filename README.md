@@ -1,3 +1,6 @@
+## 📁 **Repository:** 
+```https://github.com/Yevhenii199/green-shop```
+
 ## 📄 Overview
 
 GreenShop is a modern and fully responsive landing page for an online plant store. It features multi-level navigation, product filters, and a clean, mobile-friendly design for browsing and shopping for indoor plants and gardening accessories.
